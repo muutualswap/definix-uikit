@@ -4,14 +4,14 @@ export const baseColors = {
   failure: "#ED4B9E",
   primary: "#0973B9",
   primaryBright: "#59a1ec",
-  primaryDark: "#004889",
+  primaryDark: "#0000B8",
   secondary: "#0973B9",
   success: "#31D0AA",
   warning: "#FFB237",
 };
 
 export const brandColors = {
-  binance: "#F0B90B",
+  binance: "#0000B8",
 };
 
 export const lightColors: Colors = {
